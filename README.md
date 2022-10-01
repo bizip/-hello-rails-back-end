@@ -1,24 +1,62 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![](https://img.shields.io/badge/Microverse-blueviolet)
+> # "hello-rails-back-end" app 
+Set up a "Hello world" project with two apps
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+-Ruby on Rails and React
 
-* System dependencies
 
-* Configuration
+## Link to back-end
 
-* Database creation
+[Front-end]](https://github.com/bizip/hello-react-front-end/pull/1)
+## Getting Started
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+### Prerequisites
 
-* Services (job queues, cache servers, search engines, etc.)
+You need to have a git installed
+You need to have a basic knowledge about ruby on rails and React
 
-* Deployment instructions
+### Setup the progect
 
-* ...
+#### clone this project (using git clone https://github.com/bizip/-hello-rails-back-end.git) to your local computer and use telminal to navigate into the parent directory of this project.
+
+## OR
+choose this repository as your templete
+
+
+### Usage
+
+run: Rails s
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/bizip)
+- Twitter: [@twitterhandle](https://twitter.com/BizimunguPasca9)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/bizimungu)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+
