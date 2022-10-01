@@ -7,6 +7,10 @@ Set up a "Hello world" project with two apps
 
 -Ruby on Rails and React
 
+
+## Link to back-end
+
+[Front-end]](https://github.com/bizip/hello-react-front-end/pull/1)
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.

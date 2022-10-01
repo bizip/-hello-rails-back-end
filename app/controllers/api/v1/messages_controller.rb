@@ -3,8 +3,10 @@ class Api::V1::MessagesController < ApplicationController
 
   # GET /messages
   def index
-    @messages = Message.all
-    render json: @messages
+    getrandom = rand(Message.count)
+    message = Message.offset(getrandom).first
+    puts message.inspect
+    render json: message
   end
 
   # GET /messages/1
